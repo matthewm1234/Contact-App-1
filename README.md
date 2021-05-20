@@ -1,5 +1,5 @@
 # Contact-App-1
-This App is used for adding Contacts in different Category.
+This App is use for adding Contacts in different Category.
 <div align="center">
     <img src="/Screenshots for project/Screenshot_20210519-234447.jpg" width="400px"</img> 
 </div>
